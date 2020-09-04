@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "markdown-to-html": "0.0.13",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.1",
